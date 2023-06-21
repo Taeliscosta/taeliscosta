@@ -1,7 +1,7 @@
 ###  Olá! Eu sou Taélis Costa
 
--  📚 Atualmente estou fazendo Ciência da Computação na UEPB
-- 🌱 Atualmente estou aprendendo C
+-  📚 Atualmente estou fazendo Ciência da Computação na UEPB.
+- 🌱 Atualmente estou aprendendo Java.
 
 <picture>
 <source 
