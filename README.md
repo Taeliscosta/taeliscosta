@@ -1,7 +1,7 @@
 ###  Olá! Eu sou Taélis Holanda
 
--  📚 Atualmente estou fazendo Ciência da Computação na UEPB.
-- 🌱 Atualmente estou aprendendo Java.
+- 📚 Cursando Ciência da Computação na UEPB.
+- 🌱 7/10 Período.
 
 <div>
   <hr>
