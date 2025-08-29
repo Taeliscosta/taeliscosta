@@ -1,4 +1,4 @@
-###  Olá! Eu sou Taélis Costa
+###  Olá! Eu sou Taélis Holanda
 
 -  📚 Atualmente estou fazendo Ciência da Computação na UEPB.
 - 🌱 Atualmente estou aprendendo Java.
