@@ -1,72 +1,67 @@
-# 👋 Olá! Eu sou Taélis Holanda
+# 👋 Olá, eu sou Taélis Holanda
 
-💻 Estudante de Ciência da Computação na UEPB  
-🚀 Interessado em desenvolvimento Full Stack, APIs e Engenharia de Software  
-🎯 Buscando evoluir constantemente através de projetos práticos
+🎓 Estudante de Ciência da Computação na UEPB.
 
----
+💻 Focado em desenvolvimento Full Stack, APIs e Engenharia de Software.
 
-## 📊 Estatísticas do GitHub
+🚀 Construindo projetos práticos para evoluir em arquitetura de sistemas e desenvolvimento web.
 
-<div align="center">
-  <a href="https://github.com/Taeliscosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taeliscosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taeliscosta&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taeliscosta&theme=tokyo-night"/>
-</div>
+📚 Atualmente estudando tecnologias voltadas para aplicações web e boas práticas de programação.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-<img align="center" alt="HTML" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-<img align="center" alt="CSS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<img align="center" alt="Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img align="center" alt="Java" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-<img align="center" alt="C" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-<img align="center" alt="Git" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-<img align="center" alt="GitHub" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="GitHub" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 </div>
+
+---
+
+## 📌 Sobre Mim
+
+* 🔹 Interesse em desenvolvimento web e arquitetura de software
+* 🔹 Experiência acadêmica com Java, C, Python, JavaScript, HTML, Css e lógica de programação
+* 🔹 Utilização de Git e GitHub para versionamento de projetos
+* 🔹 Desenvolvimento de APIs e sistemas web como projetos de estudo
+* 🔹 Buscando oportunidades para aprimorar habilidades práticas e profissionais
 
 ---
 
 ## 🌐 Contato
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/taeliscosta/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  
+
   <a href="mailto:taeliscosta11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Taeliscosta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Taeliscosta&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Taeliscosta&style=flat-square&color=blue" alt="Profile views"/>
 </div>
